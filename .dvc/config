@@ -1,0 +1,5 @@
+[core]
+    autostage = true
+    remote = storage
+['remote "storage"']
+    url = ../15Ur7T3qrvLFKM2C7IcrFN5GUMdXS5Rvt
