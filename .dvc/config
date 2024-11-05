@@ -1,9 +1,6 @@
 [core]
     autostage = true
     remote = mysshremote
-['remote "storage"']
-    url = https://drive.google.com/drive/folders/15Ur7T3qrvLFKM2C7IcrFN5GUMdXS5Rvt
-['remote "onprem_storage"']
-    url = Z:\DVC_Remote
+
 ['remote "mysshremote"']
     url = ssh://ai@AHQ-AI-Linux/home/ai/Workspace/dvc_storage
