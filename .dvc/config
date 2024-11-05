@@ -1,6 +1,8 @@
 [core]
     autostage = true
-    remote = mysshremote
+    remote = my_remote
 ['remote "mysshremote"']
     url = ssh://ai@10.24.105.221/home/ai/Workspace/dvc_storage
-    password = P@ssw0rd@!#2024
+    password = P@ssw0rd@!
+['remote "my_remote"']
+    url = //10.24.105.160/Shared_folder/Omar
