@@ -3,4 +3,4 @@
     remote = mysshremote
 
 ['remote "mysshremote"']
-    url = ssh://ai@AHQ-AI-Linux/home/ai/Workspace/dvc_storage
+    url = ssh://ai@10.24.105.221/home/ai/Workspace/dvc_storage
